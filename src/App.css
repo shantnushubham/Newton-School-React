@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.screen {
+  padding: 5vh 10%;
+}
+
+.post-grid {
+  display: grid;
+  grid-template-columns: 10% 90%;
+}
